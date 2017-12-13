@@ -1,0 +1,50 @@
+#homelist{
+	font-size:100px;
+	li{
+		display:flex;
+		padding:0.1rem 0.15rem;
+		img{
+			width:0.7rem;
+			height:0.9rem;
+			margin-right:0.15rem;
+			display: block;float:left;
+		}
+		div{float:left;
+
+			.filmname{
+				width: 100%;
+				display:block;
+				font:0.16rem/0.350rem "";
+				.n1{
+					float: left;height:0.350rem;
+				}
+				.n2{
+					float: right;color:red;font:0.12rem/0.25rem "";
+					b{
+						color: #000;
+					}
+				}
+			}
+			.stuation{
+				display: block;
+				font:0.12rem/0.25rem "";
+				color:#999;
+			}
+		}
+	}
+}
+				.page{
+					font:0.12rem/0.2rem "";
+					text-align: center;
+					padding:0.2rem 0;
+					span{
+						display:inline-block;
+						width:0.2rem;
+						height:0.2rem;
+						margin:0 0.05rem;
+						border:0.01rem solid #888;
+						
+						border-radius:50%;
+						color:#777;
+					}
+				}

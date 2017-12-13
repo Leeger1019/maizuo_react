@@ -1,0 +1,33 @@
+img{
+	width:100%;
+}
+h2{
+	margin: 16px auto;
+	border-left: 16px solid RGB(228, 200, 156);
+	font-size: 16px;
+	padding-left: 4px;
+}
+p{
+	font-size:14px;
+	text-overflow: ellipsis;
+	margin-bottom: 80px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+	h4{
+		font-size: 16px;
+	}
+	button{
+		display: inline-block;text-align:center;
+		font-size: 14px;
+		min-width: 156px;
+		height: 36px;
+		line-height: 36px;
+		border: none;
+		background-color: #fe8233;
+		padding: 0;
+		margin:0 auto;
+		border-radius: 18px;
+		color: #fff;
+		-webkit-transition: 0.5s ease;
+	}
